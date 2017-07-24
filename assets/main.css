@@ -1,0 +1,55 @@
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css");
+/* HERE STARTS THE MAGIC */
+
+.content-wrapper{
+    background-color: white;
+    min-height: 0%;
+    position:absolute;
+    z-index: 2;
+    width: 100%;
+}
+/* HERE ENDS THE MAGIC */
+header .container {
+    padding-bottom: 50px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+header .intro-text .name {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+header .intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+section {
+    padding: 100px 0;
+    width: 100%;
+}
+
+section h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+section.primary h2{
+    color: #2c3e50;
+    }
+
+section.success{
+    background-color: #f7f7f7;
+    color: #333;
+    }
+
+section.success hr{
+  border:1px solid #333;
+}

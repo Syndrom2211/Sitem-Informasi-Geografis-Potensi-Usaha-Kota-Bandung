@@ -1,0 +1,4 @@
+[23-Jul-2017 23:43:06 UTC] PHP Fatal error:  Call to undefined method pengunjung_web::tampil_usaha() in /home/firdamda/gis.kotabandung.firdamdam.id/pengusaha/index.php on line 52
+[23-Jul-2017 23:43:17 UTC] PHP Fatal error:  Call to undefined method pengunjung_web::tampil_usaha() in /home/firdamda/gis.kotabandung.firdamdam.id/pengusaha/index.php on line 52
+[23-Jul-2017 23:43:35 UTC] PHP Fatal error:  Call to undefined method pengunjung_web::tampil_usaha() in /home/firdamda/gis.kotabandung.firdamdam.id/pengusaha/index.php on line 52
+[23-Jul-2017 23:46:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/firdamda/gis.kotabandung.firdamdam.id/pengusaha/index.php:18) in /home/firdamda/gis.kotabandung.firdamdam.id/class/pemilik_usaha.php on line 37
